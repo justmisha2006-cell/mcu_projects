@@ -1,0 +1,12 @@
+[
+  {
+    "device_id": "TargetiX_SL7",
+    "device_name": "TargetiX SL7",
+    "versions": [
+      {
+        "name": "v3.1 (Стабільна)",
+        "manifest": "./manifest.json"
+      }
+    ]
+  }
+]
